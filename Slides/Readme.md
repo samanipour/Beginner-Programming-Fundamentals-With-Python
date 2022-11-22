@@ -6,6 +6,6 @@ You could download **slides** of this course from fallowing links:
 2. [Module 1](https://drive.google.com/file/d/1-QkkbLT3rzDr9FHOIg3GgoFFrKl_a6Ej/view?usp=share_link)
 3. [Module 2](https://drive.google.com/file/d/1vcJeDm8RDEnhgscEo_s5KCqxQC3pUHLS/view?usp=share_link)
 4. [Module 3](https://drive.google.com/file/d/1vMW6yxRmsnzBquV6Z_j1UsGoCxUSHtkm/view?usp=share_link)
-5. [Module 4](#)
-6. [Module 5](#)
+5. [Module 4](https://drive.google.com/file/d/1l-W06vVwVRqYpddNEm6bayTcX7GdRx2T/view?usp=share_link)
+6. [Module 5](https://drive.google.com/file/d/1rsT2hTV_q7HKRHVb-3_2PNE9Xzg4M3f-/view?usp=share_link)
 7. [Module 6](#)
