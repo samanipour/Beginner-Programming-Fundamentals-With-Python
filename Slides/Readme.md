@@ -2,10 +2,10 @@
 
 ## Slides download links
 You could download **slides** of this course from fallowing links:
-1. [Module 0](https://drive.google.com/file/d/1wrC6sik5BN8Q3ymVaMB_J-VcG_ePlk5t/view?usp=share_link)
-2. [Module 1](https://drive.google.com/file/d/1-QkkbLT3rzDr9FHOIg3GgoFFrKl_a6Ej/view?usp=share_link)
-3. [Module 2](https://drive.google.com/file/d/1vcJeDm8RDEnhgscEo_s5KCqxQC3pUHLS/view?usp=share_link)
-4. [Module 3](https://drive.google.com/file/d/1vMW6yxRmsnzBquV6Z_j1UsGoCxUSHtkm/view?usp=share_link)
-5. [Module 4](https://drive.google.com/file/d/1l-W06vVwVRqYpddNEm6bayTcX7GdRx2T/view?usp=share_link)
-6. [Module 5](https://drive.google.com/file/d/1rsT2hTV_q7HKRHVb-3_2PNE9Xzg4M3f-/view?usp=share_link)
+1. [Module 0](APC-211119005-Slides-00.pdf)
+2. [Module 1](APC-211119005-Slides-01.pdf)
+3. [Module 2](APC-211119005-Slides-02.pdf)
+4. [Module 3](APC-211119005-Slides-03.pdf)
+5. [Module 4](APC-211119005-Slides-04.pdf)
+6. [Module 5](APC-211119005-Slides-05.pdf)
 7. [Module 6](#)
