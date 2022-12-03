@@ -8,4 +8,4 @@ You could download **slides** of this course from fallowing links:
 4. [Module 3](APC-211119005-Slides-03.pdf)
 5. [Module 4](APC-211119005-Slides-04.pdf)
 6. [Module 5](APC-211119005-Slides-05.pdf)
-7. [Module 6](#)
+7. [Module 6](APC-211119005-Slides-06.pdf)
