@@ -1,3 +1,6 @@
 [submodule "Challenges Solutions"]
 	path = Challenges Solutions
 	url = https://github.com/SamaniAcademy/Beginner-Programming-Fundamentals-With-Python-Solutions.git
+[submodule "References"]
+	path = References
+	url = https://github.com/samanipour/Python-Programming-References
